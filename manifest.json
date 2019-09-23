@@ -1,0 +1,38 @@
+{
+  "name": "Guru Millenial",
+  "short_name": "Guru Millenial",
+  "start_url": "https://guru.tahsin.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog seputar pembelajaran.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Ak5w2YZ6KhI/XT2h8apWzoI/AAAAAAAADgs/N4TIVBg2Jj0jDTZG8IejhDicMEz9QItkQCLcBGAs/s48/Tutwuri.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Ak5w2YZ6KhI/XT2h8apWzoI/AAAAAAAADgs/N4TIVBg2Jj0jDTZG8IejhDicMEz9QItkQCLcBGAs/s72/Tutwuri.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Ak5w2YZ6KhI/XT2h8apWzoI/AAAAAAAADgs/N4TIVBg2Jj0jDTZG8IejhDicMEz9QItkQCLcBGAs/s96/Tutwuri.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Ak5w2YZ6KhI/XT2h8apWzoI/AAAAAAAADgs/N4TIVBg2Jj0jDTZG8IejhDicMEz9QItkQCLcBGAs/s144/Tutwuri.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Ak5w2YZ6KhI/XT2h8apWzoI/AAAAAAAADgs/N4TIVBg2Jj0jDTZG8IejhDicMEz9QItkQCLcBGAs/s168/Tutwuri.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Ak5w2YZ6KhI/XT2h8apWzoI/AAAAAAAADgs/N4TIVBg2Jj0jDTZG8IejhDicMEz9QItkQCLcBGAs/s192/Tutwuri.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Ak5w2YZ6KhI/XT2h8apWzoI/AAAAAAAADgs/N4TIVBg2Jj0jDTZG8IejhDicMEz9QItkQCLcBGAs/s512/Tutwuri.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
